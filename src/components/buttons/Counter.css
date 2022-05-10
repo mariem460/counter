@@ -1,0 +1,9 @@
+button {
+  background-color: #77ea7b; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 56px;
+  margin: 20px;
+}
