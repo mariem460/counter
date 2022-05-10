@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Counter from './components/buttons/Counter';
 import './App.css';
 
